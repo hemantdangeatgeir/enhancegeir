@@ -1,0 +1,3 @@
+service user name:EnhanceGeirServiceUser
+access code:AKIATC7GZZWZD6WGFPFL
+secret key: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
